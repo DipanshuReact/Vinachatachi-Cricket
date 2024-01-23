@@ -1,0 +1,6 @@
+<div class="card" style={{width: "25rem"}}>
+    <img src="https://i.ibb.co/SBrMfhM/IMG-20230824-WA0021.jpg" alt="IMG-20230824-WA0021" border="0"/>
+   <diV>
+   <a href="https://iconscout.com/icons/google-pay" class="text-underline font-size-sm" target="_blank">Free Google Pay Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>
+
+   https://1000logos.net/wp-content/uploads/2023/03/Paytm-logo.png
